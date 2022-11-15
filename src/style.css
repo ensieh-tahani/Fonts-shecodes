@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    padding: 0 20px;
+  }
+  
+  img {
+    max-width: 50%;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: #231d3c;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+    line-height: 48px;
+    font-family: 'Island Moments', cursive;
+    
+  }
+  
+  .home-icon {
+    color: blue;
+    font-size: 40px;
+  }
+  
+  .motorcycle-icon {
+    color: red;
+    font-size: 10px;
+  }
+  
+  .drum-icon {
+    color: green;
+    font-size: 200px;
+  }
+  
